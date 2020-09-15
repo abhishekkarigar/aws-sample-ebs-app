@@ -21,5 +21,13 @@
     "moxios": "^0.4.0",
     "nodemon": "^1.18.11",
     "supertest": "^4.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekkarigar/aws-sample-ebs-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abhishekkarigar/aws-sample-ebs-app/issues"
+  },
+  "homepage": "https://github.com/abhishekkarigar/aws-sample-ebs-app#readme"
 }
